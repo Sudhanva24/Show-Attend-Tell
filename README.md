@@ -57,7 +57,7 @@ in the link given below
 
 ## Result:
 Bleu score on Test data: 0.05
-- Reason for low Bleu score: Low computation resources and less samples in dataset
+- Reason for low Bleu score: Low computation resources and we are only using 5600 examples to train
 
 ## Demo
 
@@ -67,14 +67,14 @@ Bleu score on Test data: 0.05
 ![image](https://github.com/user-attachments/assets/c17935de-6364-4768-b3d4-7f0a49782da2)
 
 
-** Example 2:**
+**Example 2:**
 
 ![image](https://github.com/user-attachments/assets/dfcf4098-a0f0-4452-848a-b52fb811620b)
 ![image](https://github.com/user-attachments/assets/f02c2227-ec26-412e-8a1b-0c7465a5c30c)
 
 
 
-** Example 3:**
+**Example 3:**
 
 ![image](https://github.com/user-attachments/assets/eccb26ff-9791-4b9d-b7c7-19fe8b10c4c9)
 ![image](https://github.com/user-attachments/assets/40952fcc-0903-4828-afe2-f4249a3bc2ad)
@@ -83,10 +83,10 @@ Bleu score on Test data: 0.05
 
 
 
-** Example 4:**
+**Example 4:**
 
 ![image](https://github.com/user-attachments/assets/eef52491-5267-48a7-9729-cc47dc88648f)
-![image](https://github.com/user-attachments/assets/ada0605d-bf59-43e9-9775-2b1eb006d2bf)
+![image](https://github.com/user-attachments/assets/373e7bd9-21a4-4b41-a103-c76ec96406b1)
 
 
 
