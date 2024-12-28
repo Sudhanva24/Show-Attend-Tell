@@ -3,6 +3,7 @@
 This Project is inspired from the Research paper Show, Attend and Tell written which applies Attention Mechanism to Image captioning task. To know more about this research paper and the concept of hard attention and soft attention check out my blog 
 in the link given below
 
+https://medium.com/@sudhanvaiitr/show-attend-and-tell-c0c7dc5467ed
 
 ## Data Set
 - We have used the Flickr8k dataset.
