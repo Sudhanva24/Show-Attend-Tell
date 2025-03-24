@@ -51,43 +51,44 @@ https://medium.com/@sudhanvaiitr/show-attend-and-tell-c0c7dc5467ed
 ## Training Summary
 
 
- ![image](https://github.com/user-attachments/assets/e4b5bb9b-6f86-442c-990e-62d811ed410d)
- 
+ ![image](https://github.com/user-attachments/assets/61c2c92d-ded6-48cd-808f-a2f24d064aea)
 
- ![image](https://github.com/user-attachments/assets/2b2e2493-08bf-4133-b418-cfc17127eef3)
+ 
+ ![image](https://github.com/user-attachments/assets/b22b9077-b80d-42f3-8e21-c6415157e98f)
+
 
 ## Result:
-Bleu score on Test data: 0.05
-- Reason for low Bleu score: Low computation resources and we are only using 5600 examples to train
+Meteor on Test data: 0.223
+- A decent Score considering we ran it for 10 epochs and trained it only for 5600 samples
 
 ## Demo
 
 **Example 1:**
 
-![image](https://github.com/user-attachments/assets/4bf63ab2-0359-41f8-a096-4a8063e6c319)
-![image](https://github.com/user-attachments/assets/c17935de-6364-4768-b3d4-7f0a49782da2)
+![image](https://github.com/user-attachments/assets/8bc9c690-1d9f-4aa2-ad76-6e095e0f4a87)
+
+![image](https://github.com/user-attachments/assets/a09fe2a7-ce65-4d0e-b1db-56dcee10c603)
+
 
 
 **Example 2:**
 
-![image](https://github.com/user-attachments/assets/dfcf4098-a0f0-4452-848a-b52fb811620b)
-![image](https://github.com/user-attachments/assets/f02c2227-ec26-412e-8a1b-0c7465a5c30c)
+![image](https://github.com/user-attachments/assets/f85d853b-37bf-439f-bf50-19dda7ab73e4)
+
+![image](https://github.com/user-attachments/assets/5890641b-f8b3-4448-8831-7d7f0234b882)
+
 
 
 
 **Example 3:**
 
-![image](https://github.com/user-attachments/assets/eccb26ff-9791-4b9d-b7c7-19fe8b10c4c9)
-![image](https://github.com/user-attachments/assets/40952fcc-0903-4828-afe2-f4249a3bc2ad)
+![image](https://github.com/user-attachments/assets/ffdaf72e-a3f3-44c7-b8e2-11cb18f6d747)
+
+![image](https://github.com/user-attachments/assets/6b89c6fe-b7ec-466a-94cb-329c93794624)
 
 
 
 
-
-**Example 4:**
-
-![image](https://github.com/user-attachments/assets/eef52491-5267-48a7-9729-cc47dc88648f)
-![image](https://github.com/user-attachments/assets/373e7bd9-21a4-4b41-a103-c76ec96406b1)
 
 
 
